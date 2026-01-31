@@ -6,8 +6,10 @@ Built for fun by [@somyatwts](https://x.com/somyatwts) after seeing too many wal
 
 ## Before & After
 
+Before:
 <img width="754" height="940" alt="image" src="https://github.com/user-attachments/assets/6770f580-4695-4652-b30b-b85db6cb0b3d" />
 
+After:
 <img width="754" height="820" alt="image" src="https://github.com/user-attachments/assets/9ddcd932-8d8f-4990-9973-d6cec023545c" />
 
 ## Features
